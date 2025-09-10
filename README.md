@@ -1,3 +1,4 @@
 # Asma-demo
-This is my first Git-hub repository
-Author - Husna
+This is my first Git-hub repository.
+<br>
+Author - Asma ul Husna
